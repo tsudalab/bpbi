@@ -10,4 +10,4 @@ pandas >= 1.11.x
 Download or clone the github repository, e.g. git clone https://github.com/tsudalab/bpbi
 
 # Usage 
-Run test.py for searching the binding pose using a best-arm identification algorithm.
+Run test.py for searching the binding pose using best-arm identification algorithms.
