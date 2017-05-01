@@ -1,4 +1,6 @@
 # bpbi
 Binding pose prediction by best arm identification
 
-test
+Required Packages 
+python >= 2.7.x
+numpy >= 1.11.x
