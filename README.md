@@ -1,5 +1,5 @@
 # bpbi
-Binding pose prediction by best arm identification
+Binding Pose prediction by Best-arm Identification
 
 # Required Packages 
 python >= 2.7.x
